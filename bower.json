@@ -1,0 +1,31 @@
+{
+  "name": "Friendly",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Hendrixer/friendly",
+  "authors": [
+    "Scott Moss"
+  ],
+  "description": "Social network app built with MEAN",
+  "keywords": [
+    "mean",
+    "angular",
+    "social",
+    "javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-animate": "~1.2.13",
+    "bower-foundation-css": "*",
+    "angular-ui-router": "0.2.8-bowratic-tedium"
+  }
+}
